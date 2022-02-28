@@ -64,4 +64,4 @@ get the books.
   
   <h2>Video</h2>  
   
-  [![Watch the video]](https://youtu.be/Iush4lpzwm4)
+  [![Watch the video]](https://youtu.be/V0XR2oYmDVY)
